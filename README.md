@@ -1,7 +1,7 @@
-# Dashboard de Análisis de YouTube
+# Dashboard de Análisis de demandas caso practico 
 
 ## Objetivo
-Analizar métricas de rendimiento de canales de YouTube mediante Power BI.
+Analizar métricas de demandas caso practico
 
 ## Herramientas
 - Power BI
@@ -9,7 +9,4 @@ Analizar métricas de rendimiento de canales de YouTube mediante Power BI.
 - Power Query
 
 ## KPIs Analizados
-- Vistas
-- Suscriptores
-- Engagement
-- Crecimiento del canal
+- demandas
